@@ -1,0 +1,7 @@
+- 👋 Hi, I’m parthappandit
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning Frontend 
+- 💞️ I’m looking to collaborate on Frontend
+- 📫 parthapratimpandit5.1@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im a human
